@@ -1,3 +1,4 @@
+package program;
 import chess.ChessPiece;
 
 public class UI {
